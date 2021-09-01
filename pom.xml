@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>14</maven.compiler.release>
-    <tomcat.version>10.1.0-M4</tomcat.version>
+    <tomcat.version>9.0.31</tomcat.version>
   </properties>
 
   <dependencies>
