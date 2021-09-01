@@ -1,0 +1,1 @@
+web: java -jar target/devopsass01.jar
